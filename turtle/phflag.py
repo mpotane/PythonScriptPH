@@ -1,7 +1,7 @@
 from turtle import *
 
 
-def blue():
+def blue(flag):
     flag.penup()
     flag.goto(-400, 0)
     flag.pendown()
@@ -17,7 +17,7 @@ def blue():
     flag.end_fill()
 
 
-def red():
+def red(flag):
     flag.penup()
     flag.goto(-400, -250)
     flag.pendown()
@@ -33,7 +33,7 @@ def red():
     flag.end_fill()
 
 
-def white():
+def white(flag):
     flag.penup()
     flag.goto(-400, 250)
     flag.pendown()
@@ -47,7 +47,7 @@ def white():
     flag.end_fill()
 
 
-def star():
+def star(flag):
     flag.color('yellow')
     flag.left(36)
     flag.begin_fill()
@@ -57,7 +57,7 @@ def star():
     flag.end_fill()
 
 
-def sun():
+def sun(flag):
     flag.penup()
     flag.goto(-290, -50)
     flag.pendown()
@@ -77,30 +77,34 @@ def sun():
         flag.circle(50, 45)
 
 
-if __name__ == '__main__':
+def main():
     flag = Turtle()
     s = Screen()
     s.title('Welcome to Python PH!')
     flag.speed(0)
     s.setup(800, 500)
-    blue()
+    blue(flag)
     flag.left(180)
-    red()
+    red(flag)
     flag.left(90)
-    white()
+    white(flag)
     flag.penup()
     flag.goto(-375, 185)
     flag.pendown()
-    star()
+    star(flag)
     flag.penup()
     flag.goto(-368, -210)
     flag.pendown()
-    star()
+    star(flag)
     flag.penup()
     flag.goto(-120, 0)
     flag.pendown()
-    star()
+    star(flag)
     flag.left(214)
-    sun()
+    sun(flag)
     flag.hideturtle()
     done()
+    
+    
+if __name__ == '__main__':
+    main()
