@@ -4,7 +4,7 @@
 ---
 
 #### 🎯 Contribute
-Open for contributions. Create pull request and I will review the code. 🧐
+Open for contributions. Create a pull request and I will review the code. 🧐
 
 ---
 
