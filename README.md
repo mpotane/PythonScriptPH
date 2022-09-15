@@ -8,4 +8,5 @@ Open for contributions. Create a pull request and I will review the code. 🧐
 
 ---
 
-💻🌠 by [Mark Edzel Potane](https://mpotane.github.io) | [My Linkedin profile](https://www.linkedin.com/in/mpotane/)) 🕹
+### #️⃣ Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100031136142357) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mpotanedev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mpotane) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mpotanedev) 
