@@ -7,7 +7,9 @@ def main():
 
     amount = float(input("Enter amount in USD: "))
 
-    print(round(rate.convert('USD', 'PHP', amount), 2))
+    differential = rate.convert('USD', 'PHP', amount)
+
+    print(f'₱ {differential:,.2f}')
 
 
 if __name__ == '__main__':
