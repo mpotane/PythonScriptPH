@@ -1,11 +1,10 @@
 from pytube import YouTube
-link = input('https://youtu.be/6M1rP2r672o')
-yt = Youtube(link)
-yt.streams.first().download()
-print('downloaded', link)
-    
 
 
+def main():
+    yt = Youtube('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+    yt.streams.get_by_itag(18).download()
 
 
-
+if __name__ == '__main__':
+    main()
