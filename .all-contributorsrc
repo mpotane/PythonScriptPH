@@ -32,6 +32,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "AsyncDeveloper245",
+      "name": "Omoleye Julius Fortunate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79061404?v=4",
+      "profile": "http://peewhyresume.herokuapp.com",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7,
