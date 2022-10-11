@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "mpotane",
+      "name": "mpotane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65337802?v=4",
+      "profile": "http://mpotane.github.io",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "PythonScriptPH",
+  "projectOwner": "mpotane"
+}
