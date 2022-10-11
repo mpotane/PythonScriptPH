@@ -22,7 +22,7 @@ Open for contributions. Create a pull request and I will review the code. 🧐
 - [Youtube Video Downloader](https://github.com/mpotane/PythonScriptPH/tree/main/Youtube-Video-Downloader)
 - [BTC to PHP Converter](https://github.com/mpotane/PythonScriptPH/tree/main/btc-to-php)
 - [CSV to Excel Converter](https://github.com/mpotane/PythonScriptPH/tree/main/csv-to-excel)
-- [CSV to JSON Converter](https://github.com/mpotane/PythonScriptPH/tree/main/csv-to-jso)
+- [CSV to JSON Converter](https://github.com/mpotane/PythonScriptPH/tree/main/csv-to-json)
 - [Language Detection](https://github.com/mpotane/PythonScriptPH/tree/main/detect-language)
 - [File Copy](https://github.com/mpotane/PythonScriptPH/tree/main/filecopy)
 - [Image to PDF Converter](https://github.com/mpotane/PythonScriptPH/tree/main/img-to-pdf)
