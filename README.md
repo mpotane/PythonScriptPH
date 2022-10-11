@@ -10,6 +10,8 @@
 ### Available Scripts
 
 - [Algorithms](https://github.com/mpotane/PythonScriptPH/tree/main/Algorithms)
+  - [Searching](https://github.com/mpotane/PythonScriptPH/tree/main/Algorithms/Searching)
+  - [Sorting](https://github.com/mpotane/PythonScriptPH/tree/main/Algorithms/Sorting) 
 - [Btc To Php](https://github.com/mpotane/PythonScriptPH/tree/main/btc-to-php)
 - [Csv To Excel](https://github.com/mpotane/PythonScriptPH/tree/main/csv-to-excel)
 - [Csv To Json](https://github.com/mpotane/PythonScriptPH/tree/main/csv-to-json)
