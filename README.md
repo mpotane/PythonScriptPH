@@ -7,7 +7,7 @@
 
 ---
 
-### Available Scripts
+### 🦚 Available Scripts
 
 - [Algorithms](https://github.com/mpotane/PythonScriptPH/tree/main/Algorithms)
   - [Searching](https://github.com/mpotane/PythonScriptPH/tree/main/Algorithms/Searching)
