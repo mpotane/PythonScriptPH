@@ -1,6 +1,6 @@
 ## PythonScriptPH 🇵🇭
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=for-the-badge&logo=git)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![](https://img.shields.io/static/v1?label=python&message=3.10.7&color=f7df28&style=for-the-badge&logo=python)](https://www.python.org/) [![](https://img.shields.io/static/v1?label=LICENSE&message=GPLv3&color=brightgreen&style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.en.html)
