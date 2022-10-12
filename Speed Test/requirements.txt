@@ -1,1 +1,1 @@
-pip install speedtest
+speedtest
