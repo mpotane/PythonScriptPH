@@ -1,6 +1,6 @@
 ## PythonScriptPH 🇵🇭
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![](https://img.shields.io/static/v1?label=python&message=3.10.7&color=f7df28&style=for-the-badge&logo=python)](https://www.python.org/) [![](https://img.shields.io/static/v1?label=LICENSE&message=GPLv3&color=brightgreen&style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.en.html)
@@ -21,10 +21,10 @@
 - [Philippine Flag](https://github.com/mpotane/PythonScriptPH/tree/main/Philippine-flag)
 - [Qrcode](https://github.com/mpotane/PythonScriptPH/tree/main/qrcode)
 - [Remove Background Image](https://github.com/mpotane/PythonScriptPH/tree/main/remove-background-image)
+- [Speed Test](https://github.com/mpotane/PythonScriptPH/tree/main/speed-test)
 - [Text To Tagalog](https://github.com/mpotane/PythonScriptPH/tree/main/text-to-tagalog)
 - [Usd To Peso](https://github.com/mpotane/PythonScriptPH/tree/main/usd-to-peso)
 - [Youtube Video Downloader](https://github.com/mpotane/PythonScriptPH/tree/main/Youtube-Video-Downloader)
-
 ---
 
 ### 🎯 Contribute
@@ -51,6 +51,7 @@ Open for contributions. Create a pull request and I will review the code. 🧐
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/santiariza15"><img src="https://avatars.githubusercontent.com/u/48007679?v=4?s=100" width="100px;" alt="Santiago Ariza"/><br /><sub><b>Santiago Ariza</b></sub></a><br /><a href="https://github.com/mpotane/PythonScriptPH/commits?author=santiariza15" title="Code">💻</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/aditya-das-7b2276202"><img src="https://avatars.githubusercontent.com/u/58718316?v=4?s=100" width="100px;" alt="ADITYA DAS"/><br /><sub><b>ADITYA DAS</b></sub></a><br /><a href="https://github.com/mpotane/PythonScriptPH/commits?author=ADITYADAS1999" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
