@@ -1,6 +1,6 @@
 ## PythonScriptPH 🇵🇭
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![](https://img.shields.io/static/v1?label=python&message=3.10.7&color=f7df28&style=for-the-badge&logo=python)](https://www.python.org/) [![](https://img.shields.io/static/v1?label=LICENSE&message=GPLv3&color=brightgreen&style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.en.html)
@@ -53,6 +53,7 @@ Open for contributions. Create a pull request and I will review the code. 🧐
     <tr>
       <td align="center"><a href="https://github.com/santiariza15"><img src="https://avatars.githubusercontent.com/u/48007679?v=4?s=100" width="100px;" alt="Santiago Ariza"/><br /><sub><b>Santiago Ariza</b></sub></a><br /><a href="https://github.com/mpotane/PythonScriptPH/commits?author=santiariza15" title="Code">💻</a></td>
       <td align="center"><a href="https://www.linkedin.com/in/aditya-das-7b2276202"><img src="https://avatars.githubusercontent.com/u/58718316?v=4?s=100" width="100px;" alt="ADITYA DAS"/><br /><sub><b>ADITYA DAS</b></sub></a><br /><a href="https://github.com/mpotane/PythonScriptPH/commits?author=ADITYADAS1999" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/VishMaster17"><img src="https://avatars.githubusercontent.com/u/74035077?v=4?s=100" width="100px;" alt="VishMaster17"/><br /><sub><b>VishMaster17</b></sub></a><br /><a href="https://github.com/mpotane/PythonScriptPH/commits?author=VishMaster17" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
