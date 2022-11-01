@@ -30,7 +30,7 @@
 
 ### 🎯 Contribute
 
-Open for contributions. Create a pull request and I will review the code. 🧐
+Open for contributions. Create a pull request and I will review the code. [Contributor Guide](./CODE_OF_CONDUCT.md) 🧐
 
 ### 📋 Code of Conduct
 This project and everyone participating in it are governed by the [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you agree to abide by this code of conduct.
