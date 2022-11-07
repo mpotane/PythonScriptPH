@@ -25,7 +25,7 @@
 - [Speed Test](https://github.com/mpotane/PythonScriptPH/tree/main/speed-test)
 - [Text To Tagalog](https://github.com/mpotane/PythonScriptPH/tree/main/text-to-tagalog)
 - [Usd To Peso](https://github.com/mpotane/PythonScriptPH/tree/main/usd-to-peso)
-- [Youtube Video Downloader](https://github.com/mpotane/PythonScriptPH/tree/main/Youtube-Video-Downloader)
+- [Youtube Video Downloader](https://github.com/mpotane/PythonScriptPH/tree/main/youtube-video-downloader)
 ---
 
 ### 🎯 Contribute
