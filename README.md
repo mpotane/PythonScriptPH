@@ -19,6 +19,7 @@
 - [Filecopy](https://github.com/mpotane/PythonScriptPH/tree/main/filecopy)
 - [Img To Pdf](https://github.com/mpotane/PythonScriptPH/tree/main/img-to-pdf)
 - [Json To YAML](https://github.com/mpotane/PythonScriptPH/tree/main/json-to-yaml)
+- [Pdf to docx](https://github.com/mpotane/PythonScriptPH/tree/main/pdf-to-docx)
 - [Philippine Flag](https://github.com/mpotane/PythonScriptPH/tree/main/Philippine-flag)
 - [Qrcode](https://github.com/mpotane/PythonScriptPH/tree/main/qrcode)
 - [Remove Background Image](https://github.com/mpotane/PythonScriptPH/tree/main/remove-background-image)
