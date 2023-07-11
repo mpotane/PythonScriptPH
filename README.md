@@ -5,7 +5,7 @@
 
 ![LOVE](https://forthebadge.com/images/badges/built-with-love.svg) ![yes](https://forthebadge.com/images/badges/check-it-out.svg)
 
-[![](https://img.shields.io/static/v1?label=python&message=3.10.9&color=f7df28&style=for-the-badge&logo=python)](https://www.python.org/) [![](https://img.shields.io/static/v1?label=LICENSE&message=GPLv3&color=brightgreen&style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![](https://img.shields.io/static/v1?label=python&message=3.11.4&color=f7df28&style=for-the-badge&logo=python)](https://www.python.org/) [![](https://img.shields.io/static/v1?label=LICENSE&message=GPLv3&color=brightgreen&style=for-the-badge&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ---
 
